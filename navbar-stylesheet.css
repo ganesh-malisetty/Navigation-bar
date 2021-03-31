@@ -1,0 +1,61 @@
+body{
+
+    background-color: lightskyblue;
+
+    font-size: 25px;
+
+}
+
+h1{
+
+    text-align: center;
+
+    color: red;
+}
+
+nav{
+
+    background-color: black;
+
+    padding: 20px;
+
+}
+
+nav a{
+
+    list-style-type: none;
+
+    text-decoration: none;
+
+    color: white;
+
+    padding: 10px;
+
+    text-align: center;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    border: 1px solid yellow;
+
+    border-radius: 5px;
+
+    margin-left: 50px;
+
+   
+
+}
+
+nav a:hover{
+
+    background-color: white;
+
+    color: black;
+
+    border: 1px dashed purple;
+
+    font-family: serif;
+
+    font-style: oblique;
+
+    font-weight: bolder;
+}
